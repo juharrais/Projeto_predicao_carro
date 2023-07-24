@@ -1,5 +1,8 @@
 # Projeto_predicao_carro
-A empresa Indicium com o objetivo de testar conhecimentos sobre a resolução de problemas de negócios dados e aplicação de modelos preditivos, disponibilizou dois dataset com 
+A empresa Indicium com o objetivo de testar conhecimentos sobre a resolução de problemas de negócios dados e aplicação de modelos preditivos, disponibilizou dois dataset:
+  a) Um dataset para treinamento chamado cars_training composto por 29584 linhas, 28 colunas de informação (features) e a variável a ser prevista (“preco”). 
+b)Um segundo dataset para teste chamado de cars_test composto por  9862 linhas e 28 colunas, sendo que este dataset não possui a coluna “preco”. 
+
 
 Desafio:
 Você foi alocado(a) em um time da Indicium que está trabalhando atualmente junto a um cliente que o core business é compra e venda de veículos usados. Essa empresa está com dificuldades na área de revenda dos automóveis usados em seu catálogo.
